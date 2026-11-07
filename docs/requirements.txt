@@ -1,0 +1,9 @@
+# Requisitos principales para el proyecto ML 
+pandas 
+scikit-learn 
+numpy 
+matplotlib 
+streamlit 
+#jupyter 
+seaborn 
+joblib

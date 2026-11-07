@@ -1,0 +1,11 @@
+# Ignorar archivos y carpetas comunes para proyectos ML 
+pycache_/ 
+*. pyc 
+.env 
+.ipynb_checkpoints/ 
+data/raw/ 
+#data/processed/ 
+#models/ 
+.DS_Store 
+*. sqlite3 
+*. log
